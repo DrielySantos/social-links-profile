@@ -37,11 +37,6 @@ O objetivo principal era construir uma página que apresentasse um perfil com di
 ## 🖼️ Demonstração
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
-## 🔗 Link do Projeto
-
-*   [Link para página no GitHub Pages](LINK_DO_GITHUB_PAGES)
-*   [Link para o repositório no GitHub](LINK_DO_REPOSITÓRIO)
-
 ## ✉️ Contato
 
 * [Meu LinkedIn](https://www.linkedin.com/in/drielysantos/)
